@@ -1,0 +1,5 @@
+﻿Collecting huggingface_hub
+  Downloading huggingface_hub-2.2.0-py3-none-any.whl (839 kB)
+Collecting python-dotenv
+  Using cached python_dotenv-1.2.4-py3-none-any.whl (23 kB)
+Requirement already satisfied: pip in c:\users\laxmi\onedrive\desktop\attendance_management\venv\lib\site-packages (21.2.3)
